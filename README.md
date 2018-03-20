@@ -1,0 +1,1 @@
+A small node.js assignment where we had to average the argument given through the command prompt.
